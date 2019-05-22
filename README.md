@@ -40,8 +40,8 @@ In the following repositories you will find content relating to the Interop19 in
 
 ## Links
 - https://www.xoriant.com/blog/cloud-infrastructure/introduction-kubernetes-building-blocks.html
-- https://grafana.com/plugins-
-- https://kubernetes.io/docs/setup/turnkey/clc/
+    https://grafana.com/plugins
+    https://kubernetes.io/docs/setup/turnkey/clc/
     https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/
     https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/
     https://portworx.com/run-ha-elasticsearch-elk-azure-kubernetes-service/
