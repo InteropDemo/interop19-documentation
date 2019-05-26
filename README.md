@@ -30,6 +30,7 @@ In the following repositories you will find content relating to the Interop19 in
 - [Interop19-Docker/Ansible](https://github.com/InteropDemo/interop19-docker/tree/origin/master/ansible "Interop19 Ansible Docker")
 - [Interop19-Ansible](https://github.com/InteropDemo/interop19-ansible "Interop19 Ansible Files")
 - [Interop19-Docker/Oxidized](https://github.com/InteropDemo/interop19-docker/tree/origin/master/oxidized "Interop19 Oxidized Docker")
+- [Interop19-Kubernetes](https://github.com/InteropDemo/interop19-kubernetes/tree/origin/master "Interop19 Kubernetes Demo")
 
 ## Further Reading
 
